@@ -6,6 +6,8 @@ mail server settings (such as host and port) for sending notifications should be
 configurable via the application.properties file. This is a simulation, and no actual emails
 will be sent.
 
+![class_diagramm.png](images/class_diagramm.png)
+
 # Steps
 # 1. Define the User class:
 • Attributes:
