@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: user-register
+
+email:
+  host: smtp-gmail.com
+  port: 5432
